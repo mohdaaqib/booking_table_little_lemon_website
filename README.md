@@ -8,3 +8,4 @@ The platform demonstrates the integration of a booking application into the Litt
 Please be aware that, apart from the design, the only operational feature on the website is the "Reserve a Table" function.
 
 
+## demo: https://littlelemonrestaurantankitamwebsiteproject.netlify.app/
